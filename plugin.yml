@@ -1,0 +1,11 @@
+#name, main, version and api are required
+name: ItemInventory
+main: ItemInventory\Main
+version: 1.0
+api: 2.0.0
+author: EmreTr1
+description: ItemInventory 
+commands:
+ ii:
+   description: ItemInventory main command
+   
